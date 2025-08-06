@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5htxtnehlq56gc93?svg=true)](https://ci.appveyor.com/project/AlenaNadezhkina/hwat2-1-miqbv)
